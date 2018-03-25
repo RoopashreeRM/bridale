@@ -1,0 +1,16 @@
+  #navigation
+{
+  background-color:purple;
+}
+#navigation li a{
+  border:3px solid whitesmoke;
+  color: black;
+  margin-left:2rem;
+  background-color:hotpink;
+}
+#pooj
+{
+background-image:url('/..images/z.jpg');
+background-size:100%;
+background-repeat:no-repeat;
+}
